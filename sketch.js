@@ -6,7 +6,6 @@ function setup() {
   createCanvas(1000, 1000)
   frameRate(30)
   noStroke()
-  createLoop({duration:30, gif:true})
 }
 
 function draw() {
