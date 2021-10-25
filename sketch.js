@@ -3,7 +3,7 @@ let gridSize = 9*3
 let a = 0
 
 function setup() {
-  createCanvas(1000, 1000)
+  createCanvas(windowWidth, windowHeight);
   frameRate(30)
   noStroke()
 }
